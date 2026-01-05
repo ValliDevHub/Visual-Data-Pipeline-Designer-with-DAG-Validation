@@ -26,6 +26,6 @@ Frontend
   - CSS
     
 Backend
-  - Python+
+  - Python
   - FastAPI
 
